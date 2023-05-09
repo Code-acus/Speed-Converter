@@ -1,0 +1,11 @@
+C:\Development\C#\C#.NET\Speed Converter\Speed Converter\bin\Debug\Speed Converter.exe.config
+C:\Development\C#\C#.NET\Speed Converter\Speed Converter\bin\Debug\Speed Converter.exe
+C:\Development\C#\C#.NET\Speed Converter\Speed Converter\bin\Debug\Speed Converter.pdb
+C:\Development\C#\C#.NET\Speed Converter\Speed Converter\obj\x86\Debug\Speed Converter.csproj.AssemblyReference.cache
+C:\Development\C#\C#.NET\Speed Converter\Speed Converter\obj\x86\Debug\Speed Converter.csproj.SuggestedBindingRedirects.cache
+C:\Development\C#\C#.NET\Speed Converter\Speed Converter\obj\x86\Debug\Speed_Converter.Form1.resources
+C:\Development\C#\C#.NET\Speed Converter\Speed Converter\obj\x86\Debug\Speed_Converter.Properties.Resources.resources
+C:\Development\C#\C#.NET\Speed Converter\Speed Converter\obj\x86\Debug\Speed Converter.csproj.GenerateResource.cache
+C:\Development\C#\C#.NET\Speed Converter\Speed Converter\obj\x86\Debug\Speed Converter.csproj.CoreCompileInputs.cache
+C:\Development\C#\C#.NET\Speed Converter\Speed Converter\obj\x86\Debug\Speed Converter.exe
+C:\Development\C#\C#.NET\Speed Converter\Speed Converter\obj\x86\Debug\Speed Converter.pdb
