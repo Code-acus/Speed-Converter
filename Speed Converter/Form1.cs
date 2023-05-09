@@ -38,5 +38,10 @@ namespace Speed_Converter
                 outputListBox.Items.Add(kph + " is the same as " + mph + " mph");
             }
         }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
